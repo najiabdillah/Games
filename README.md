@@ -1,3 +1,7 @@
+● Implement RAWG api
+● Implement architecture (MVC, MVP, VIPER, MVVM)
+
+
 **Implements**
 
 ✔ Recyclerview - Viewpager2\
